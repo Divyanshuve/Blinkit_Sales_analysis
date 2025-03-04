@@ -2,7 +2,12 @@
 I'm thrilled to present my latest data analyst project, where I delved into the sales data of Blinkit and gained valuable insights. This project was a fantastic opportunity to apply my skills and enhance my expertise in data analysis.
 
 Tools and Techniques Used:
-To create this comprehensive dashboard, I utilized DAX, Power BI, and Excel. These tools allowed me to clean, analyze, and visualize the data effectively, providing valuable insights that can drive strategic decisions.
+To create this comprehensive dashboard, I utilized DAX, Power BI, and Excel. These tools allowed me to clean, analyze, and visualize the data effectively, providing valuable insights that can drive strategic decisions. Here’s a glimpse into the process and the outcomes:
+Process:
+1. Data Collection: Gathered sales data from various sources and consolidated it into Excel.
+2. Data Cleaning: Ensured data accuracy and consistency by cleaning and transforming the data in Excel.
+3. Data Modeling: Used DAX to create calculated columns and measures for deeper analysis.
+4. Visualization: Leveraged Power BI to design an interactive and visually appealing dashboard
 
 Objectives and Solutions
 1. Increase Total Sales:
